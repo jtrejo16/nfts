@@ -1,0 +1,46 @@
+{
+  "name": "TED Toucan #5",
+  "symbol": "META",
+  "description": "Somos una comunidad de Real State",
+  "seller_fee_basis_points": 1000,
+  "image": "5.png",
+  "external_url": "https://www.vanngmexico.com/",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bitcoin"
+    },
+    {
+      "trait_type": "body",
+      "value": "ted rey"
+    },
+    {
+      "trait_type": "hat",
+      "value": "kico"
+    },
+    {
+      "trait_type": "acesory",
+      "value": "corazon"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CRhaH5HA1zDiyNEFoKgLxEzHFkq39RFCZyVAjbeCbDJJ",
+        "share": 50
+      },
+      {
+        "address": "8mKkPdjr5uDDtcPixfd53494ihnmBnZV14dgXffAmmz1",
+        "share": 50
+      }
+    ]
+  }
+}
